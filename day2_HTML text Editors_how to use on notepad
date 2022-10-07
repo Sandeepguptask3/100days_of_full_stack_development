@@ -1,0 +1,18 @@
+#HTML text Editors
+  1.An HTML file is a text file, so to create an HTML file we can use any text editors.
+  2.Text editors are the programs which allow editing in a written text, hence to create a web page we need to write our code in some text editor.
+  3.There are various types of text editors available which you can directly download, but for a beginner, the best text editor is Notepad (Windows) or TextEdit (Mac).
+  4.After learning the basics, you can easily use other professional text editors which are, Notepad++, Sublime Text, Vim, etc.
+  5.our tutorial, we will use Notepad and sublime text editor. Following are some easy ways to create your first web page with Notepad, and sublime text.
+  
+  
+ # A HTML code with Notepad. (Recommended for Beginners)
+   Notepad is a simple text editor and suitable for beginners to learn HTML. It is available in all versions of Windows, from where you easily access it.
+
+   Step 1: Open Notepad (Windows)
+   Step 2: Write code in HTML
+   Step 3: Save the HTML file with .htm or .html extension.
+   Step 4: Open the HTML page in your web browser 
+            (to run the HTML page, you need to open the file location,
+           where you have saved the file and then either double-click on file or click on open with option)
+
