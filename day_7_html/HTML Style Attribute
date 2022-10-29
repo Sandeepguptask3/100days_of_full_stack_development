@@ -1,0 +1,49 @@
+/* HTML Attribute
+o	HTML attributes are special words which provide additional information about the elements or attributes are the modifier of the HTML element.
+o	Each element or tag can have attributes, which defines the behaviour of that element.
+o	Attributes should always be applied with start tag.
+o	The Attribute should always be applied with its name and value pair.
+o	The Attributes name and values are case sensitive, and it is recommended by W3C that it should be written in Lowercase only.
+o	You can add multiple attributes in one HTML element, but need to give space between two attributes.
+________________________________________
+Syntax
+Style attribute
+
+
+
+
+1.	<element attribute_name="value">content</element>  
+________________________________________
+Example
+
+1.	 <!DOCTYPE html>  
+2.	<html>  
+3.	<head>  
+4.	</head>  
+5.	<body>  
+6.	    <h1> This is Style attribute</h1>  
+7.	   <p style="height: 50px; color: blue">It will add style property in element</p>  
+8.	    <p style="color: red">It will change the color of content</p>  
+9.	</body>  
+10.	</html>  
+Output:
+ 
+
+Explanation of above example:
+
+
+
+
+1.	<p style="height: 50px; color: blue">It will add style property in element</p>  
+ 
+In the above statement, we have used paragraph tags in which we have applied style attribute. This attribute is used for applying CSS property on any HTML element. It provides height to paragraph element of 50px and turns it colour to blue.
+
+
+
+
+1.	<p style="color: red">It will change the color of content</p>  
+In the above statement we have again used style attribute in paragraph tag, which turns its colour red.
+
+*/
+
+
